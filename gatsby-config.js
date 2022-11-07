@@ -1,10 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "My Super Cool Blog",
+    title: "Full Name",
   },
   plugins: [
-    "gatsby-plugin-image",
-    "gatsby-plugin-sharp",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
