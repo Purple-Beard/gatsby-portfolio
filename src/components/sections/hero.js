@@ -53,7 +53,7 @@ const Hero = () => {
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam et diam diam. Integer sed vulputate urna, eu facilisis tellus. Phasellus dapibus, sapien ac ornare ultrices, odio arcu rutrum lacus, in tincidunt nunc augue at ex.</p>
       <a
         className='cta--button'
-        href='#'
+        href='/'
       >
         Resume
       </a>

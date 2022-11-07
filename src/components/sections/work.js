@@ -37,19 +37,19 @@ const Work = () => {
     >
       <h2>Personal Projects</h2>
       <div>
-        <a href=''>
+        <a href='/'>
           <article>
             <h3>Project A</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </article>
         </a>
-        <a href=''>
+        <a href='/'>
           <article>
             <h3>Project B</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
           </article>
         </a>
-        <a href=''>
+        <a href='/'>
           <article>
             <h3>Project C</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>

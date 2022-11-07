@@ -1,5 +1,6 @@
 import * as React from "react"
 import Layout from "../components/layout"
+import Seo from "../components/seo"
 import Hero from "../components/sections/hero"
 import About from "../components/sections/about"
 import Experience from "../components/sections/experience"
@@ -19,10 +20,6 @@ const IndexPage = () => {
   )
 }
 
-export default IndexPage
+export const Head = () => <Seo title="Profile" />
 
-export const Head = () => (
-  <>
-    <title>Full Name</title>
-  </>
-)
+export default IndexPage
